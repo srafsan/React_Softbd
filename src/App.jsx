@@ -1,5 +1,6 @@
 import './App.css'
-import Memo from './Memo'
+import Reducer from './Reducer'
+// import Memo from './Memo'
 // import Counter from './Counter'
 // import TodoList from './TodoList'
 
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-      <Memo/>
+      <Reducer/>
     </>
   )
 }
